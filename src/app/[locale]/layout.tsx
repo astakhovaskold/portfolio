@@ -13,6 +13,8 @@ import {getMessages, getTranslations, unstable_setRequestLocale} from 'next-intl
 
 import {routing} from '@/i18n/routing';
 import {Background, Flex} from '@/once-ui/components';
+import Head from 'next/head';
+import YandexMetrica from '@/app/telematic/YandexMetrica';
 
 export async function generateMetadata({params: {locale}}: {params: {locale: string}}) {
     const t = await getTranslations();
@@ -103,6 +105,10 @@ export default async function RootLayout({children, params: {locale}}: RootLayou
                     code.variable,
                 )}
             >
+                <Head>
+                    <YandexMetrica />
+                </Head>
+
                 <Flex style={{minHeight: '100vh'}} as="body" fillWidth margin="0" padding="0" direction="column">
                     <Background
                         mask={effects.mask as any}
