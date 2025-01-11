@@ -1,4 +1,4 @@
-const baseURL = 'demo.magic-portfolio.com';
+const baseURL = process.env.NEXT_BASE_URL;
 
 // Enable localization
 const i18n = true;
