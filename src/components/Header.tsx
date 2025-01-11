@@ -149,7 +149,7 @@ export const Header = () => {
                         </Flex>
                     </Flex>
                 </Flex>
-                <Flex fillWidth justifyContent="flex-end" alignItems="center" className={styles.locales}>
+                <Flex fillWidth hide="s" justifyContent="flex-end" alignItems="center" className={styles.locales}>
                     <Flex
                         paddingRight="12"
                         justifyContent="flex-end"
