@@ -1,0 +1,185 @@
+{
+  "person": {
+    "firstName": "Askold",
+    "lastName": "Astakhov",
+    "role": "Lead Software Engineer"
+  },
+  "newsletter": {
+    "title": "Newsletter abonnieren",
+    "description": "Ich schreibe gelegentlich über Design, Technologie und teile meine Gedanken zum Schnittpunkt von Kreativität und Ingenieurwesen.",
+    "button": "Abonnieren"
+  },
+  "home": {
+    "label": "Startseite",
+    "title": "Portfolio {name}",
+    "description": "Portfolio-Website, die meine Arbeit als {role} zeigt.",
+    "headline": "Askold Astakhov — Software Engineer und TeamLead",
+    "subline": "Ich bin Askold Astakhov, Lead Software Engineer bei Weigandt Consulting, wo ich Websites, mobile Anwendungen und komplexe Informationssysteme wie CRM und ERP entwickle. In meiner Freizeit entwickle ich eigene Projekte."
+  },
+  "about": {
+    "label": "Über mich",
+    "title": "Über mich",
+    "description": "Lernen Sie {name} kennen, {role} aus {location}",
+    "schedule": "Termin vereinbaren",
+    "intro": {
+      "title": "Einführung",
+      "description": "Askold ist ein Entwickler, der sich auf die Erstellung von Benutzeroberflächen und Webanwendungen spezialisiert hat. Er möchte komplexe Aufgaben in einfache und elegante Lösungen verwandeln, indem er Design und Technologie verbindet. Seine Erfahrung umfasst die Gestaltung digitaler Schnittstellen, interaktiver Erlebnisse und die Entwicklung von Webanwendungen.",
+      "download": "Lebenslauf herunterladen",
+      "cv": "/docs/Askold_Astakhov_CV.pdf"
+    },
+    "work": {
+      "title": "Berufserfahrung",
+      "experiences": {
+        "Weigandt Consulting": {
+          "timeframe": "April 2023 - Gegenwart",
+          "role": "Lead Software Engineer",
+          "achievements": "Steigerte die Teamleistung um 15% durch Optimierung von Arbeitsabläufen und Implementierung von Effizienzmetriken.;Reduzierte die Bereitstellungszeit um 20% durch die Erstellung einer automatisierten CI/CD-Pipeline mit GitLab.;Entwickelte die Architektur und leitete die Entwicklung eines Dokumentenmanagementsystems für ein großes Unternehmen, wodurch eine hohe Leistung und Skalierbarkeit gewährleistet wurden.;Implementierte die Scrum-Methodik und verbesserte so die Teamarbeit und die Entwicklungsgeschwindigkeit.;Entwickelte ein ERP-System für ein Pharmaunternehmen, das erweiterte Möglichkeiten für die visuelle Anpassung und Datenanalyse bietet."
+        },
+        "Luxoft": {
+          "timeframe": "Oktober 2021 - April 2023",
+          "role": "Senior Frontend Engineer",
+          "achievements": "Sorgte für die termingerechte und qualitätsvolle Bereitstellung von Projekten und leitete ein Team von Entwicklern.;Entwickelte umfassende Teststrategien mit Playwright, wodurch die Systemstabilität und die Testabdeckung verbessert wurden.;Erstellte skalierbare Systeme zur Verwaltung von Vorräten und Personal für ein großes Energieunternehmen.;Leitete die Entwicklung einer globalen NFT-Plattform und optimierte die Leistung für hohe Datenmengen.;Erstellte eine Informationsressource für ein großes Spiele-Studio, wodurch die Benutzerfreundlichkeit und die Systemreaktionfähigkeit verbessert wurden."
+        },
+        "Webit": {
+          "timeframe": "Februar 2021 - Oktober 2021",
+          "role": "Fullstack Software Developer (Middle+)",
+          "achievements": "Implementierte Lean/Agile-Praktiken in neue Projekte, wodurch das Projektmanagement optimiert und die Lieferzeiten verkürzt wurden.;Organisierte Treffen für Front-End-Entwickler, um eine kollaborative Lernumgebung zu schaffen.;Entwickelte Informationssysteme und Websites mit React und Vue.js für hochkarätige Kunden.;Erstellte Backend-Systeme mit PHP und MySQL, wodurch eine nahtlose Integration mit Front-End-Komponenten gewährleistet wurde.;Lieferte mehrere E-Commerce-Projekte und maßgeschneiderte Content-Management-Systeme aus und unterstützte so skalierbares Wachstum."
+        },
+        "ICS Monitoring": {
+          "timeframe": "Dezember 2020 - Februar 2021",
+          "role": "Fullstack Software Developer",
+          "achievements": "Entwickelte 70% des Front-Ends und 1/3 des Back-Ends für ein E-Commerce-Projekt und lieferte es innerhalb kurzer Zeit.;Führe die Front-End-Entwicklung an und optimierte das UX/UI-Design und implementierte dynamische Funktionen.;Startete einen funktionsreichen Wein-Marktplatz, steigerte das Engagement der Nutzer und verbesserte die Verkaufszahlen."
+        },
+        "Seoproduction": {
+          "timeframe": "Dezember 2019 - Dezember 2020",
+          "role": "Fullstack Software Developer",
+          "achievements": "Verbesserte die Entwicklungsabläufe durch die Implementierung von CI/CD-Pipelines für alle Projekte des Unternehmens.;Standardisierte die Prozesse der Projektplanung, wodurch die Ressourcenallokation und das Verfolgen von Meilensteinen verbessert wurden.;Entwickelte und pflegte über 20 E-Commerce-Websites und optimierte die Leistung und Skalierbarkeit.;Erstellte Websites auf beliebten CMS-Plattformen wie Bitrix, WordPress und Joomla und sorgte so für plattformübergreifende Kompatibilität."
+        }
+      }
+    },
+    "studies": {
+      "title": "Ausbildung",
+      "institutions": {
+        "SUAI": {
+          "title": "SUAI",
+          "description": "Studierte Software Engineering an der SUAI."
+        },
+        "Coursera": {
+          "title": "Coursera",
+          "description": "Besuchte die Programme \"Software Architect\" und \"Scaled Front-End Apps\"."
+        }
+      }
+    },
+    "technical": {
+      "title": "Technische Fähigkeiten",
+      "skills": {
+        "Front-end Languages": {
+          "description": "",
+          "items": "JavaScript ES6;TypeScript"
+        },
+        "Front-end Frameworks": {
+          "description": "",
+          "items": "React 16+;Vue.js (v2, v3)"
+        },
+        "Module Bundlers": {
+          "description": "",
+          "items": "Webpack;Vite.js;Rollup"
+        },
+        "Query Management": {
+          "description": "",
+          "items": "React-Query (Tanstack Query);SWR;RTK Query"
+        },
+        "Styling": {
+          "description": "",
+          "items": "Tailwind;Emotion;Styled-components;BEM"
+        },
+        "State Managers": {
+          "description": "",
+          "items": "Redux;Redux Saga;Effector;Zustand"
+        },
+        "SSR/ISR": {
+          "description": "Ich erstelle Anwendungen der nächsten Generation mit Next.js oder Remix.",
+          "items": "Next.js;Remix.js;Nuxt.js (SSR, ISR)"
+        },
+        "UI-Kit": {
+          "description": "",
+          "items": "Ant.design;Once UI;Chakra UI;shadcn/ui;MUI"
+        },
+        "Mobile App Development": {
+          "description": "",
+          "items": "React Native 0.71+;Flutter"
+        },
+        "Testing": {
+          "description": "",
+          "items": "Jest;Vitest;React Testing Library;Playwright;Selenuim"
+        },
+        "Back-end Languages": {
+          "description": "",
+          "items": "Node.js (JavaScript);PHP 5.6+;Bash;Dart"
+        },
+        "Back-end Frameworks": {
+          "description": "",
+          "items": "Nest.js;Express;Laravel"
+        },
+        "Database": {
+          "description": "",
+          "items": "PostgreSQL;MySQL;MongoDB;Redis"
+        },
+        "Caching": {
+          "description": "",
+          "items": "Redis;Memcached"
+        },
+        "APIs": {
+          "description": "",
+          "items": "REST API;GraphQL;Websocket"
+        },
+        "Infrastructure": {
+          "description": "",
+          "items": "Docker;Docker Compose;k8s (Kubernetes)"
+        },
+        "CI/CD": {
+          "description": "",
+          "items": "Gitlab CI/CD;GitHub Actions;Drone CI"
+        },
+        "Monitoring": {
+          "description": "",
+          "items": "Prometheus;Grafana"
+        },
+        "Project Management": {
+          "description": "",
+          "items": "Agile;Scrum;SAFe;Kanban"
+        },
+        "Git Methodologies": {
+          "description": "",
+          "items": "Git Flow;GitHub Flow;Trunk-based Development"
+        },
+        "UX/UI": {
+          "description": "Ich kann schnell Prototypen in Figma mit Once UI erstellen, mit einer außergewöhnlichen Geschwindigkeit.",
+          "items": "Figma;Sketch;Photoshop"
+        },
+        "Services": {
+          "description": "",
+          "items": "Jira;BitBucket;Confluence;Trello;Miro"
+        }
+      }
+    }
+  },
+  "blog": {
+    "label": "Blog",
+    "title": "Ich schreibe über Design und Technologie...",
+    "description": "Lesen Sie, was {name} in letzter Zeit gemacht hat."
+  },
+  "work": {
+    "label": "Arbeit",
+    "title": "Meine Projekte",
+    "description": "Projekte zur Entwicklung von IT-Lösungen von {name}"
+  },
+  "gallery": {
+    "label": "Galerie",
+    "title": "Meine Galerie",
+    "description": "Fotogalerie von {name}"
+  },
+  "projectCard": {
+    "label": "Fallstudie lesen"
+  }
+}

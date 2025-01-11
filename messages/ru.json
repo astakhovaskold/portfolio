@@ -1,0 +1,185 @@
+{
+  "person": {
+    "firstName": "Аскольд",
+    "lastName": "Астахов",
+    "role": "Lead Software Engineer"
+  },
+  "newsletter": {
+    "title": "Подписаться на рассылку",
+    "description": "Я время от времени пишу о дизайне, технологиях и делюсь мыслями о пересечении креативности и инженерии",
+    "button": "Подписаться"
+  },
+  "home": {
+    "label": "Главная",
+    "title": "Портфолио {name}",
+    "description": "Сайт-портфолио, демонстрирующий мою работу как {role}",
+    "headline": "Аскольд Астахов - разработчик ПО и TeamLead",
+    "subline": "Я Аскольд Астахов, Lead Software Engineer в Weigandt Consulting, где я создаю сайты, мобильные приложения и сложные информационные системы, такие как CRM и ERP. В свободное время разрабатываю собственные проекты."
+  },
+  "about": {
+    "label": "Обо мне",
+    "title": "Обо мне",
+    "description": "Познакомьтесь с {name}, {role} из {location}",
+    "schedule": "Забронировать звонок",
+    "intro": {
+      "title": "Введение",
+      "description": "Аскольд — разработчик, специализирующийся на создании пользовательских интерфейсов и веб-приложений. Он стремится превращать сложные задачи в простые и элегантные решения, объединяя дизайн и технологии. Его опыт охватывает проектирование цифровых интерфейсов, интерактивных опытов и разработку веб-приложений.",
+      "download": "Скачать резюме",
+      "cv": "/docs/Askold_Astakhov_CV.pdf"
+    },
+    "work": {
+      "title": "Опыт работы",
+      "experiences": {
+        "Weigandt Consulting": {
+          "timeframe": "Апрель 2023 - Настоящее время",
+          "role": "Lead Software Engineer",
+          "achievements": "Увеличил производительность команды на 15% за счет оптимизации рабочих процессов и внедрения метрик эффективности.;Снизил время развертывания на 20% путем создания автоматизированного конвейера CI/CD с использованием GitLab.;Разработал архитектуру и руководил разработкой системы управления документами для крупной компании, обеспечивая высокую производительность и масштабируемость.;Внедрил Scrum-методологию, повысив эффективность командной работы и скорость разработки.;Создал систему ERP для фармацевтической компании, предоставляющую расширенные возможности визуальной настройки и анализа данных."
+        },
+        "Luxoft": {
+          "timeframe": "Октябрь 2021 - Апрель 2023",
+          "role": "Senior Frontend Engineer",
+          "achievements": "Обеспечил своевременную и качественную доставку проектов, руководя командой разработчиков.;Разработал комплексные стратегии тестирования, используя Playwright, повысив стабильность системы и уровень тестового покрытия.;Создал масштабируемые системы для управления запасами и персоналом крупной энергетической компании.;Руководил разработкой глобальной NFT-площадки, оптимизируя производительность для больших нагрузок.;Создал информационный ресурс для крупной игровой студии, повысив удобство использования и отзывчивость системы."
+        },
+        "Webit": {
+          "timeframe": "Февраль 2021 - Октябрь 2021",
+          "role": "Fullstack Software Developer (Middle+)",
+          "achievements": "Внедрил Lean/Agile-практики в новые проекты, оптимизируя управление проектами и сокращая сроки доставки.;Организовал встречи для разработчиков front-end, создавая благоприятную среду для обучения и совместной работы.;Разработал информационные системы и веб-сайты с использованием React и Vue.js для крупных клиентов.;Создал backend-системы с использованием PHP и MySQL, обеспечив бесшовную интеграцию с front-end компонентами.;Завершил несколько проектов по электронной коммерции и создал кастомные системы управления контентом, обеспечивая масштабируемость."
+        },
+        "ICS Monitoring": {
+          "timeframe": "Декабрь 2020 - Февраль 2021",
+          "role": "Fullstack Software Developer",
+          "achievements": "Разработал 70% front-end части и 1/3 backend-части для проекта электронной коммерции,  уложившись в сжатые сроки.;Руководил разработкой front-end части, оптимизируя дизайн UX/UI и внедряя динамические функции.;Запустил функциональную виртуальную площадку для продажи вина, повысив вовлеченность пользователей и увеличив продажи."
+        },
+        "Seoproduction": {
+          "timeframe": "Декабрь 2019 - Декабрь 2020",
+          "role": "Fullstack Software Developer",
+          "achievements": "Оптимизировал процессы разработки, внедрив CI/CD-конвейеры на всех проектах компании.;Стандартизировал процессы планирования проектов, повысив эффективность распределения ресурсов и отслеживания этапов.;Разработал и поддерживал более 20 веб-сайтов электронной коммерции, оптимизируя производительность и масштабируемость.;Создал веб-сайты на популярных CMS-платформах, включая Bitrix, WordPress и Joomla, обеспечивая кросс-платформенную совместимость."
+        }
+      }
+    },
+    "studies": {
+      "title": "Образование",
+      "institutions": {
+        "SUAI": {
+          "title": "ГУАП",
+          "description": "Проходил обучение по специальности «Программная инженерия» в ГУАП"
+        },
+        "Coursera": {
+          "title": "Coursera",
+          "description": "Изучал программы Software Architect и Scaled Front-end Apps"
+        }
+      }
+    },
+    "technical": {
+      "title": "Технические навыки",
+      "skills": {
+        "Front-end Languages": {
+          "description": "",
+          "items": "JavaScript ES6;TypeScript"
+        },
+        "Front-end Frameworks": {
+          "description": "",
+          "items": "React 16+;Vue.js (v2, v3)"
+        },
+        "Module Bundlers": {
+          "description": "",
+          "items": "Webpack;Vite.js;Rollup"
+        },
+        "Query Management": {
+          "description": "",
+          "items": "React-Query (Tanstack Query);SWR;RTK Query"
+        },
+        "Styling": {
+          "description": "",
+          "items": "Tailwind;Emotion;Styled-components;BEM"
+        },
+        "State Managers": {
+          "description": "",
+          "items": "Redux;Redux Saga;Effector;Zustand"
+        },
+        "SSR/ISR": {
+          "description": "Создаю приложения нового поколения с Next.js или Remix",
+          "items": "Next.js;Remix.js;Nuxt.js (SSR, ISR)"
+        },
+        "UI-Kit": {
+          "description": "",
+          "items": "Ant.design;Once UI;Chakra UI;shadcn/ui;MUI"
+        },
+        "Mobile App Development": {
+          "description": "",
+          "items": "React Native 0.71+;Flutter"
+        },
+        "Testing": {
+          "description": "",
+          "items": "Jest;Vitest;React Testing Library;Playwright;Selenuim"
+        },
+        "Back-end Languages": {
+          "description": "",
+          "items": "Node.js (JavaScript);PHP 5.6+;Bash;Dart"
+        },
+        "Back-end Frameworks": {
+          "description": "",
+          "items": "Nest.js;Express;Laravel"
+        },
+        "Database": {
+          "description": "",
+          "items": "PostgreSQL;MySQL;MongoDB;Redis"
+        },
+        "Caching": {
+          "description": "",
+          "items": "Redis;Memcached"
+        },
+        "APIs": {
+          "description": "",
+          "items": "REST API;GraphQL;Websocket"
+        },
+        "Infrastructure": {
+          "description": "",
+          "items": "Docker;Docker Compose;k8s (Kubernetes)"
+        },
+        "CI/CD": {
+          "description": "",
+          "items": "Gitlab CI/CD;GitHub Actions;Drone CI"
+        },
+        "Monitoring": {
+          "description": "",
+          "items": "Prometheus;Grafana"
+        },
+        "Project Management": {
+          "description": "",
+          "items": "Agile;Scrum;SAFe;Kanban"
+        },
+        "Git Methodologies": {
+          "description": "",
+          "items": "Git Flow;GitHub Flow;Trunk-based Development"
+        },
+        "UX/UI": {
+          "description": "Умею быстро создавать прототипы в Figma с Once UI с необычной скоростью.",
+          "items": "Figma;Sketch;Photoshop"
+        },
+        "Services": {
+          "description": "",
+          "items": "Jira;BitBucket;Confluence;Trello;Miro"
+        }
+      }
+    }
+  },
+  "blog": {
+    "label": "Блог",
+    "title": "Пишу о дизайне и технологиях...",
+    "description": "Читать, чем занимался {name} в последнее время"
+  },
+  "work": {
+    "label": "Работа",
+    "title": "Мои проекты",
+    "description": "Проекты по разработке IT-решений {name}"
+  },
+  "gallery": {
+    "label": "Галерея",
+    "title": "Моя галерея",
+    "description": "Фотоколлекция от {name}"
+  },
+  "projectCard": {
+    "label": "Читать кейс"
+  }
+}

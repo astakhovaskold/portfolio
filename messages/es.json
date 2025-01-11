@@ -1,0 +1,185 @@
+{
+  "person": {
+    "firstName": "Askold",
+    "lastName": "Astakhov",
+    "role": "Ingeniero de Software Principal"
+  },
+  "newsletter": {
+    "title": "Suscribirse al boletín",
+    "description": "De vez en cuando escribo sobre diseño, tecnología y comparto mis ideas sobre la intersección de la creatividad y la ingeniería.",
+    "button": "Suscribirse"
+  },
+  "home": {
+    "label": "Inicio",
+    "title": "Portafolio {name}",
+    "description": "Sitio web de portafolio que muestra mi trabajo como {role}",
+    "headline": "Askold Astakhov — Ingeniero de Software y TeamLead",
+    "subline": "Soy Askold Astakhov, Ingeniero de Software Principal en Weigandt Consulting, donde construyo sitios web, aplicaciones móviles y sistemas complejos de información como CRM y ERP. En mi tiempo libre, desarrollo mis propios proyectos."
+  },
+  "about": {
+    "label": "Sobre mí",
+    "title": "Sobre mí",
+    "description": "Conoce a {name}, {role} de {location}",
+    "schedule": "Reservar una llamada",
+    "intro": {
+      "title": "Introducción",
+      "description": "Askold es un desarrollador especializado en la creación de interfaces de usuario y aplicaciones web. Su objetivo es transformar tareas complejas en soluciones simples y elegantes, fusionando diseño y tecnología. Su experiencia abarca el diseño de interfaces digitales, experiencias interactivas y el desarrollo de aplicaciones web.",
+      "download": "Descargar currículum",
+      "cv": "/docs/Askold_Astakhov_CV.pdf"
+    },
+    "work": {
+      "title": "Experiencia laboral",
+      "experiences": {
+        "Weigandt Consulting": {
+          "timeframe": "Abril 2023 - Presente",
+          "role": "Ingeniero de Software Principal",
+          "achievements": "Aumentó la productividad del equipo en un 15% al optimizar los flujos de trabajo e implementar métricas de eficiencia.;Redujo el tiempo de implementación en un 20% creando una canalización automatizada de CI/CD con GitLab.;Desarrolló la arquitectura y dirigió el desarrollo de un sistema de gestión de documentos para una gran empresa, garantizando un alto rendimiento y escalabilidad.;Implementó la metodología Scrum, mejorando la eficiencia del trabajo en equipo y la velocidad de desarrollo.;Creó un sistema ERP para una empresa farmacéutica, que proporciona capacidades avanzadas de personalización visual y análisis de datos."
+        },
+        "Luxoft": {
+          "timeframe": "Octubre 2021 - Abril 2023",
+          "role": "Ingeniero de Frontend Senior",
+          "achievements": "Garantizó la entrega oportuna y de alta calidad de los proyectos, liderando un equipo de desarrolladores.;Desarrolló estrategias integrales de prueba, utilizando Playwright, mejorando la estabilidad del sistema y la cobertura de las pruebas.;Creó sistemas escalables para la gestión de existencias y personal para una gran empresa energética.;Lideró el desarrollo de una plataforma global de NFT, optimizando el rendimiento para cargas de trabajo elevadas.;Creó un recurso informativo para un gran estudio de juegos, mejorando la experiencia del usuario y la capacidad de respuesta del sistema."
+        },
+        "Webit": {
+          "timeframe": "Febrero 2021 - Octubre 2021",
+          "role": "Desarrollador Fullstack Intermedio",
+          "achievements": "Implementó prácticas Lean/Agile en nuevos proyectos, optimizando la gestión de proyectos y reduciendo los plazos de entrega.;Organizó reuniones para desarrolladores de front-end, creando un entorno de aprendizaje colaborativo.;Desarrolló sistemas de información y sitios web utilizando React y Vue.js para clientes de alto perfil.;Creó sistemas backend con PHP y MySQL, garantizando una integración perfecta con los componentes de front-end.;Entregó varios proyectos de comercio electrónico y sistemas personalizados de gestión de contenido, apoyando un crecimiento escalable."
+        },
+        "ICS Monitoring": {
+          "timeframe": "Diciembre 2020 - Febrero 2021",
+          "role": "Desarrollador de Software Fullstack",
+          "achievements": "Desarrolló el 70% del front-end y 1/3 del back-end para un proyecto de comercio electrónico, cumpliendo con plazos ajustados.;Lideró el desarrollo de front-end, optimizando el diseño UX/UI e implementando funciones dinámicas.;Lanzó un mercado de vinos con muchas funciones, aumentando el compromiso de los usuarios y las métricas de ventas."
+        },
+        "Seoproduction": {
+          "timeframe": "Diciembre 2019 - Diciembre 2020",
+          "role": "Desarrollador de Software Fullstack",
+          "achievements": "Mejoró los flujos de trabajo de desarrollo, implementando canalizaciones de CI/CD en todos los proyectos de la empresa.;Estandarizó los procesos de planificación de proyectos, mejorando la asignación de recursos y el seguimiento de hitos.;Desarrolló y mantuvo más de 20 sitios web de comercio electrónico, optimizando el rendimiento y la escalabilidad.;Construyó sitios web en plataformas CMS populares, como Bitrix, WordPress y Joomla, garantizando la compatibilidad entre plataformas."
+        }
+      }
+    },
+    "studies": {
+      "title": "Educación",
+      "institutions": {
+        "SUAI": {
+          "title": "SUAI",
+          "description": "Cursó Ingeniería de Software en la SUAI."
+        },
+        "Coursera": {
+          "title": "Coursera",
+          "description": "Estudió los programas \"Software Architect\" y \"Scaled Front-End Apps\"."
+        }
+      }
+    },
+    "technical": {
+      "title": "Habilidades técnicas",
+      "skills": {
+        "Front-end Languages": {
+          "description": "",
+          "items": "JavaScript ES6;TypeScript"
+        },
+        "Front-end Frameworks": {
+          "description": "",
+          "items": "React 16+;Vue.js (v2, v3)"
+        },
+        "Module Bundlers": {
+          "description": "",
+          "items": "Webpack;Vite.js;Rollup"
+        },
+        "Query Management": {
+          "description": "",
+          "items": "React-Query (Tanstack Query);SWR;RTK Query"
+        },
+        "Styling": {
+          "description": "",
+          "items": "Tailwind;Emotion;Styled-components;BEM"
+        },
+        "State Managers": {
+          "description": "",
+          "items": "Redux;Redux Saga;Effector;Zustand"
+        },
+        "SSR/ISR": {
+          "description": "Creo aplicaciones de próxima generación con Next.js o Remix.",
+          "items": "Next.js;Remix.js;Nuxt.js (SSR, ISR)"
+        },
+        "UI-Kit": {
+          "description": "",
+          "items": "Ant.design;Once UI;Chakra UI;shadcn/ui;MUI"
+        },
+        "Mobile App Development": {
+          "description": "",
+          "items": "React Native 0.71+;Flutter"
+        },
+        "Testing": {
+          "description": "",
+          "items": "Jest;Vitest;React Testing Library;Playwright;Selenuim"
+        },
+        "Back-end Languages": {
+          "description": "",
+          "items": "Node.js (JavaScript);PHP 5.6+;Bash;Dart"
+        },
+        "Back-end Frameworks": {
+          "description": "",
+          "items": "Nest.js;Express;Laravel"
+        },
+        "Database": {
+          "description": "",
+          "items": "PostgreSQL;MySQL;MongoDB;Redis"
+        },
+        "Caching": {
+          "description": "",
+          "items": "Redis;Memcached"
+        },
+        "APIs": {
+          "description": "",
+          "items": "REST API;GraphQL;Websocket"
+        },
+        "Infrastructure": {
+          "description": "",
+          "items": "Docker;Docker Compose;k8s (Kubernetes)"
+        },
+        "CI/CD": {
+          "description": "",
+          "items": "Gitlab CI/CD;GitHub Actions;Drone CI"
+        },
+        "Monitoring": {
+          "description": "",
+          "items": "Prometheus;Grafana"
+        },
+        "Project Management": {
+          "description": "",
+          "items": "Agile;Scrum;SAFe;Kanban"
+        },
+        "Git Methodologies": {
+          "description": "",
+          "items": "Git Flow;GitHub Flow;Trunk-based Development"
+        },
+        "UX/UI": {
+          "description": "Puedo crear prototipos rápidamente en Figma con Once UI, a una velocidad inusual.",
+          "items": "Figma;Sketch;Photoshop"
+        },
+        "Services": {
+          "description": "",
+          "items": "Jira;BitBucket;Confluence;Trello;Miro"
+        }
+      }
+    }
+  },
+  "blog": {
+    "label": "Blog",
+    "title": "Escribo sobre diseño y tecnología...",
+    "description": "Lee sobre lo que {name} ha estado haciendo últimamente"
+  },
+  "work": {
+    "label": "Trabajo",
+    "title": "Mis proyectos",
+    "description": "Proyectos de desarrollo de soluciones de TI de {name}"
+  },
+  "gallery": {
+    "label": "Galería",
+    "title": "Mi galería",
+    "description": "Colección de fotos de {name}"
+  },
+  "projectCard": {
+    "label": "Leer caso de estudio"
+  }
+}
