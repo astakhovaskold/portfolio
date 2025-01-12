@@ -31,9 +31,9 @@ const createI18nContent = t => {
             link: 'https://linkedin.com/in/askold-astakhov',
         },
         {
-            name: 'X',
-            icon: 'x',
-            link: '',
+            name: 'Telegram',
+            icon: 'openLink',
+            link: 'https://t.me/askold_astakhov',
         },
         {
             name: 'Email',
