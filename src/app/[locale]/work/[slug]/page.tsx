@@ -115,7 +115,7 @@ export default function Project({params}: WorkParams) {
             />
             <Flex fillWidth maxWidth="xs" gap="16" direction="column">
                 <Button href={`/${params.locale}/work`} variant="tertiary" size="s" prefixIcon="chevronLeft">
-                    Projects
+                    {t('work.back')}
                 </Button>
                 <Heading variant="display-strong-s">{post.metadata.title}</Heading>
             </Flex>

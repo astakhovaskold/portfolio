@@ -172,6 +172,7 @@
   "work": {
     "label": "Work",
     "title": "My projects",
+    "back": "Projects",
     "description": "{name}'s IT solutions development projects."
   },
   "gallery": {
