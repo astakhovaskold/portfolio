@@ -1,4 +1,4 @@
-const baseURL = process.env.NEXT_BASE_URL;
+const baseURL = process.env.NEXT_PUBLIC_BASE_URL;
 
 // Enable localization
 const i18n = true;
